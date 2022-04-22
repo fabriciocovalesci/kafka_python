@@ -1,0 +1,12 @@
+boto3==1.21.44
+kafka-python==2.0.2
+uvicorn==0.17.6
+fastapi==0.75.2
+googlefinance==0.7
+yahoo-finance==1.4.0
+yfinance==0.1.70
+numpy==1.22.3
+pandas==1.4.2
+
+
+
